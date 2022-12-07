@@ -12,7 +12,7 @@
     "express",
     "node"
   ],
-  "author": "Omaira Palacios",
+  "author": "Veilen1",
   "license": "ISC",
   "devDependencies": {
     "@faker-js/faker": "^6.3.1",
